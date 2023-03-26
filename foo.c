@@ -2,5 +2,7 @@
 
 int main(void) 
 {
-	printf("This is the 1st commit");
+	printf("This is the 2nd commit");
+
+	return 0;
 }
